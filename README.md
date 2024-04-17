@@ -10,7 +10,7 @@ your local machine for development and testing purposes.
 ### Prerequisites
 
 Requirements for the software and other tools to build, test, and push 
-- [NPM](https://www.npmjs.com/) (or any other package manager)
+- [NPM](https://www.npmjs.com/) (recommended)
 
 Note: In case you use another package manager, research the equivalent commands for your package manager.
 
